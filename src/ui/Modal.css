@@ -1,0 +1,11 @@
+.ModalBackground {
+    display: grid;
+    place-items: center;
+    width: 100%;
+    height: 100%;
+    position: absolute;
+    top: 0;
+    background: rgba(32,35,41,.8);
+    color: white;
+
+  }
